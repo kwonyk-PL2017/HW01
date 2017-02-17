@@ -1,1 +1,1 @@
-hello ("Is this working?")
+print ("Is this working?")
